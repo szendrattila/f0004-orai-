@@ -1,4 +1,4 @@
-messze =input('milyen messze van sárkány barlangja?')
+messze =input('hány magyar mérföldre van a sárkány barlangja?')
 messze =int(messze)
 km = messze * 8.35
 tengeri = km / 1.85
